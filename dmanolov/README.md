@@ -23,7 +23,7 @@
 
 ## Други учебни ресурси
 
-Освен споделените в това хранилище, мои учебни ресурси има [качени и в PCloud](https://u.pcloud.link/publink/show?code=kZHBoLZt76Y1S2uVsugIf7iM3Rkv7JGBMJV&lang=bg#folder=42364922). 
+Освен споделените в това хранилище, мои учебни ресурси има [качени и в PCloud](https://u.pcloud.link/publink/show?code=kZHBoLZt76Y1S2uVsugIf7iM3Rkv7JGBMJV&lang=bg#folder=42364922). Погледнете и [сайтовете с учебни ресурси](WEBSITES.md)
 
 ## За връзка с мен
 
