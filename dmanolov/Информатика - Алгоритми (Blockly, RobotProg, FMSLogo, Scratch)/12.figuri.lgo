@@ -1,0 +1,36 @@
+to dom :s
+  kv :s fd :s rt 30 tri :s
+end
+
+to fig1 :s 
+ repeat 4 [kv :s/4 fd :s rt 90]
+end
+
+to fig2 :s 
+ repeat 4 [rt 180 kv :s/4 rt 180 fd :s rt 90]
+end
+
+to kv :s
+  repeat 4 [fd :s rt 90]
+end
+
+to mesto :s :m
+  pu rt -30 fd 0-:s rt 90 fd :s+:m rt -90 pd
+end
+
+to roza3 :br :s :a
+  repeat :br [tri :s rt :a]
+end
+
+to roza4 :br :s :a
+  repeat :br [kv :s rt :a]
+end
+
+to tri :s
+ repeat 3 [fd :s rt 120]
+end
+
+to ulica :br :s :m
+  repeat :br [dom :s mesto :s :m]
+end
+

@@ -1,0 +1,23 @@
+to dom :a
+kv :a 
+fd :a rt 30 
+tri :a
+rt -30 fd -:a
+end
+
+to kv :a
+  repeat 4 [fd :a rt 90]
+end
+
+to rozkv :broi :razmer :prazno
+repeat :broi [kv :razmer lt 360/:broi fd :prazno]
+end
+
+to tri :a
+  repeat 3 [fd :a rt 120]
+end
+
+to ulica :broi :razmer :prazno
+repeat :broi [dom :razmer pu rt 90 fd :razmer+:prazno pd rt -90]
+end
+
