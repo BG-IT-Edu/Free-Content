@@ -1,0 +1,2 @@
+ВАЖНО: ПРОМЕНЕТЕ НАСТРОЙКА НА VirtualBox
+https://wiki.itcollege.ee/index.php/Accessing_a_virtual_machine_via_SSH_connection
