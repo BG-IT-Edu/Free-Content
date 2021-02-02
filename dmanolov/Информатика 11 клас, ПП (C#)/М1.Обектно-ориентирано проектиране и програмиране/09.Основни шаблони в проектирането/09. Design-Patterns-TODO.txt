@@ -1,0 +1,13 @@
+Да се добавят подходящи demo примери на Visual Studio за шаблоните, които са споменати в лекцията.
+
+За всеки pattern да се даде линк към Wikipedia (или друг източник) при първо споменаване на съответния слайд за този шаблон.
+
+Да се добави Visitor pattern: http://en.wikipedia.org/wiki/Visitor_pattern
+ - C#: Foreach<Action>
+ - Java: streams forEach
+ - JS: Array.prototype.forEach(function ...)
+
+Да се даде линк към някой design patterns каталог
+Например: http://c2.com/cgi/wiki?CategoryPattern
+
+Да се довършат слайдовете, примерите и всичко останало.
